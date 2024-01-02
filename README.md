@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 - Solution URL: [https://github.com/seanbuckle/stats-preview-card-component](https://github.com/seanbuckle/stats-preview-card-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://seanbuckle.github.io/stats-preview-card-component/](https://seanbuckle.github.io/stats-preview-card-component/)
 
 ## My process
 ### Built with
